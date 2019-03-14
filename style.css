@@ -1,3 +1,15 @@
+#header {
+    
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    background-color:white;
+    transition: all 0.5s;
+    z-index: 997;
+
+}
+
 .container-fluid {
     
     padding-right: 15px;
@@ -24,7 +36,7 @@
     
     
 }
-.nav-menu  li {
+.nav-menu li {
     margin-left: 40px;
     float: left;
     position: relative;
@@ -147,6 +159,7 @@ h1 {
     margin-top: 10px;
     font-size: 20px;
     font-weight:normal;
+    line-height:1;
 
 }
 #btnFeature4{
@@ -181,6 +194,7 @@ h1 {
     z-index:2;
     font-size: 20px;
     font-weight:normal;
+    line-height:1;
 
 }
 #btnFeature5{
@@ -268,6 +282,7 @@ h1 {
     z-index:2;
     font-size: 20px;
     font-weight:normal;
+    line-height:1;
 
 }
 .image2{
@@ -294,6 +309,7 @@ h1 {
     font-size: 20px;
     font-weight:normal;
     width:57%;
+    line-height:1;
 }
 #btnFeature7{
 background-color: #48e3fa;
@@ -336,6 +352,7 @@ background-color: #48e3fa;
     font-size: 20px;
     font-weight:normal;
     margin-left:7%;
+    line-height:1;
 
 }
 
@@ -382,6 +399,7 @@ background-color: #48e3fa;
     z-index:2;
     font-size: 20px;
     font-weight:normal;
+    line-height:1;
 
 }
 #btnFeature9{
@@ -411,6 +429,7 @@ background-color: #48e3fa;
     font-weight: normal;
     margin-left: 19%;
     width: 60%;
+    line-height:1;
 }
 
 #btnFeature10{
